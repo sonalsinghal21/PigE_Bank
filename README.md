@@ -13,4 +13,6 @@ Use principals of data ethics to assist Pig E. Bank in navigating challenging is
 - Utilize time-series analysis
 # Analysis: Probability of Clients Leaving
 According to a descriptive analysis on Pig E. Bank’s data, the likelihood of a client leaving can be estimated using the below decision tree algorithm.
-![Decision Tree]()
+
+![Decision Tree](https://github.com/sonalsinghal21/PigE_Bank/blob/main/Decision%20Tree%20Infographics%2005.png)
+
